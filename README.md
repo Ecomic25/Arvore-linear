@@ -1,2 +1,4 @@
 # Arvore-linear
 Resumindo, é uma arvore binaria só que com com array ao inves de struct, eu sei que a arvore anterior tinha a função de remover, mas fazer isso com array da muito trabalho e o marcel nao vai cobrar entao eu decidi nao implementar isso ainda, futuramente eu irei atualizar essas duas arvores a medida que mais coisas forem sendo passadas para nois!
+
+(OBS: caso voce estranhe a presença de INT_MIN ao decorrer do codigo, saiba que eu estou considerando que de pra colocar numeros negativos na arvore, provalvemente o maecel n vai fazer isso mas ta ai, tecnicamente se o usuario escolher o INT_MIN como numero o codigo quebraria, mas resolver isso do jeito certo tiraria o aspecto simples do codigo, o intuito dele é ser simples e acessivel pro povo que quer aprender com ele, e é isso ai, esse codigo é meramente didatico!)
